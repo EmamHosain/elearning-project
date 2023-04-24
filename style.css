@@ -1,0 +1,32 @@
+*{
+   
+}
+
+.caro{
+    /* height: 45rem; */
+}
+
+.primary-text-color{
+    color: #289bdee0;
+    font-weight:700;
+}
+.bg-primary-color{
+    background-color: #289bdee0;
+}
+.primary-color{
+    background-color: #289bdee0;
+    color: white;
+    font-weight:400;
+}
+.primary-color:hover{
+    background-color: #289bdef6;
+}
+
+section{
+    /* min-height: 100vh; */
+    
+}
+footer{
+    height: 25vh;
+
+}
